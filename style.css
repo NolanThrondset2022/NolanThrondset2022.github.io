@@ -1,0 +1,145 @@
+body {
+	background-color:lavender; 
+	overflow: auto;
+	height:20vw;
+	
+}
+
+.HEADER {
+	border: 5px solid black;
+	margin: 10px;
+	margin-top: 0px;
+	text-align: center;
+	height:20vw;
+}
+.links {
+	display: inline-block;
+	width: 220px;
+	border: 1px solid black;
+	padding: 10px;
+	text-align: justify;
+	text-align: left;
+	height: 250px;
+	vertical-align: top;
+	height:20vw;
+}
+.About-me {
+	border: 1px solid black;
+	display: inline-block;
+	width: 900px;
+	height: 250px;
+	font-size: 16px;
+	padding: 10px;
+	text-align: justify;
+	text-align: center;
+	height:20vw;
+}
+#LINKS {
+	text-align: center;
+	color: #93308A;
+	height: 20px;
+}
+a {
+	
+	color: #93308A;
+	height:20px;
+}
+
+
+.BUCKET {
+	
+}
+
+
+#dreamsP {
+	display: inline-block;
+	width: 1180px;
+	border: 1px solid black;
+	padding: 10px;
+	text-align: justify;
+	text-align: center;
+	height: 100px;
+	vertical-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#PenguinH {
+	text-align: center;
+}
+.Gunter {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 4px;
+}
+.row1{
+	color:black;
+	background-color:aquamarine;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 230px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row2{
+	color:black;
+	background-color: aqua;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 400px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row3{
+	color:black;
+	background-color:#667DD6;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 140px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row4{
+	color:black;
+	background-color:#2CC08F;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 200px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row5{
+	color:black;
+	background-color:#8BEAED;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 170px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
