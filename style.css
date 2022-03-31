@@ -2,7 +2,7 @@ body {
 	background-color:lavender; 
 	overflow: auto;
 	height:20vw;
-	
+	weight:20vw;
 }
 
 .HEADER {
@@ -10,8 +10,11 @@ body {
 	margin: 10px;
 	margin-top: 0px;
 	text-align: center;
-	height:20vw;
+	height:10vw;
+	width:97vw;
+	color:blueviolet;
 }
+
 .links {
 	display: inline-block;
 	width: 220px;
@@ -19,20 +22,23 @@ body {
 	padding: 10px;
 	text-align: justify;
 	text-align: left;
-	height: 250px;
+	height: 270px;
 	vertical-align: top;
-	height:20vw;
+	height: 26vw;
+	width: 17.7vw;
 }
 .About-me {
 	border: 1px solid black;
 	display: inline-block;
 	width: 900px;
-	height: 250px;
+	height: 300px;
 	font-size: 16px;
 	padding: 10px;
 	text-align: justify;
 	text-align: center;
-	height:20vw;
+	height:31vw;
+	width:77vw;
+	color:#948700
 }
 #LINKS {
 	text-align: center;
@@ -64,13 +70,18 @@ a {
 
 
 
+.sites {
+	display:inline-block;
+}
 
 
 
 
 
-
-
+#homepage {
+	font-size: 25px;
+	color: cornflowerblue;
+}
 
 
 
