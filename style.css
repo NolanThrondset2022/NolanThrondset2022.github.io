@@ -13,6 +13,7 @@ body {
 	height:10vw;
 	width:97vw;
 	color:blueviolet;
+	overflow: hidden;
 }
 
 .links {
@@ -26,11 +27,11 @@ body {
 	vertical-align: top;
 	height: 26vw;
 	width: 17.7vw;
+	overflow: hidden;
 }
 .About-me {
 	border: 1px solid black;
 	display: inline-block;
-	width: 900px;
 	height: 300px;
 	font-size: 16px;
 	padding: 10px;
@@ -38,7 +39,8 @@ body {
 	text-align: center;
 	height:31vw;
 	width:77vw;
-	color:#948700
+	color:#948700;
+	overflow: hidden;
 }
 #LINKS {
 	text-align: center;
@@ -49,11 +51,6 @@ a {
 	
 	color: #93308A;
 	height:20px;
-}
-
-
-.BUCKET {
-	
 }
 
 
