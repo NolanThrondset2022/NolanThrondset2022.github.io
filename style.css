@@ -71,7 +71,11 @@ a {
 	display:inline-block;
 }
 
-
+.homepage {
+	font-size: 23px;
+	color:#6341D5;
+	text-align: left;
+}
 
 
 
