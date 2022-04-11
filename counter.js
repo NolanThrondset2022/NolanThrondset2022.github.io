@@ -4,7 +4,6 @@ function divideTen() {
 	count = count / 10;
 	document.getElementById("counter").innerHTML = count;
 }
-
 function divideTwo() {
 	count = count / 2;
 	document.getElementById("counter").innerHTML = count;
@@ -13,15 +12,21 @@ function minusFive() {
 	count = count - 5;
 	document.getElementById("counter").innerHTML = count;
 }
-
 function minus() {
 	count = count - 1;
 	document.getElementById("counter").innerHTML = count;
+	
+	if (count == 68) {
+		document.getElementById("counter").innerHTML = "NICE";
+	}
 }
-
 function plus() {
 	count = count + 1;
 	document.getElementById("counter").innerHTML = count;
+	
+	if (count == 68) {
+		document.getElementById("counter").innerHTML = "NICE";
+	}
 }
 function plusFive() {
 	count = count + 5;
@@ -43,3 +48,6 @@ document.getElementById("DividedTwo").addEventListener("click", divideTwo);
 document.getElementById("DividedTen").addEventListener("click", divideTen);
 document.getElementById("TimesTwo").addEventListener("click", timesTwo);
 document.getElementById("TimesTen").addEventListener("click", timesTen);
+
+
+

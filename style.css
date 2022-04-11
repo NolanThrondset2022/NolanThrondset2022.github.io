@@ -23,9 +23,9 @@ body {
 	padding: 10px;
 	text-align: justify;
 	text-align: left;
-	height: 270px;
+	height: 290px;
 	vertical-align: top;
-	height: 26vw;
+	height: 31vw;
 	width: 17.7vw;
 	overflow: hidden;
 }
@@ -160,3 +160,16 @@ a {
 	margin: 10px;
 	
 }
+
+
+.question {
+	display: block;
+}
+
+
+
+
+
+
+
+
