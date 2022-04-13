@@ -167,9 +167,14 @@ a {
 }
 
 
+#photos, #image {
+	display: block;
+	vertical-align: top
+}
 
-
-
-
+.button {
+	display: inline-block;
+	vertical-align: top;
+}
 
 
