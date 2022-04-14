@@ -167,14 +167,15 @@ a {
 }
 
 
-#photos, #image {
-	display: block;
-	vertical-align: top
-}
-
-.button {
+#image {
 	display: inline-block;
 	vertical-align: top;
+}
+
+#buttons  {
+	display: inline-block;
+	vertical-align: top;
+	width: 5vw;
 }
 
 
