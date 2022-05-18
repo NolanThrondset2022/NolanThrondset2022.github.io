@@ -1,0 +1,118 @@
+.items {
+	border: 2px;
+	display: inline-block;
+	padding: 1px;
+	padding-left: 4px;
+	color:#FFFFFF;
+	text-align: center;
+	margin: 36px;
+	padding-left: 130px;
+		overflow: hidden;
+	white-space: nowrap;
+}
+#topBanner {
+	background-color: #001489;
+	vertical-align: bottom;
+		overflow: hidden;
+	white-space: nowrap;
+}
+                   
+#DH , #OS {
+	background-color: #001489;
+	color:#FFFFFF;
+	padding: 10px ;
+	vertical-align: top;
+		overflow: hidden;
+	white-space: nowrap;
+}
+#search {
+	background-color:#FFD400;
+	vertical-align: top;
+	text-align: left;
+		overflow: hidden;
+	white-space: nowrap;
+}
+.t{
+	padding-top: 4px;
+	padding-left: 360px;
+	padding-right: 30px;
+	text-align: center;
+	display: inline-block;
+	margin: 1px;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 100px;
+	height:100px;
+	padding-bottom: 40px;
+	color: #FFFFFF;
+}
+#S {
+	height:30px;
+	width: 30px;
+		overflow: hidden;
+	white-space: nowrap;
+}
+.mid {
+	padding-top: 0px;
+	padding-left: 1120px;
+	align-content: center;
+		overflow: hidden;
+	white-space: nowrap;
+}
+.bannerimage {
+	overflow: hidden;
+	white-space: nowrap;
+	padding-left: 990px;
+}
+.all {
+	background-color:#374A8B;
+	
+}
+.row1{
+	color:black;
+	background-color:aquamarine;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 230px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row2{
+	color:black;
+	background-color: aqua;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 400px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row3{
+	color:black;
+	background-color:#667DD6;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 140px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}
+.row4{
+	color:black;
+	background-color:#2CC08F;
+	border: 1px solid black;
+	margin-right: -5px;
+	display: inline-block;
+	width: 200px;
+	height: 60px;
+	vertical-align: bottom;
+	white-space: nowrap;
+	text-align: center;
+}

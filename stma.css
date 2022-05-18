@@ -1,0 +1,65 @@
+.items {
+	border: 2px;
+	display: inline-block;
+	padding: 1px;
+	padding-left: 4px;
+	color:#FFFFFF;
+	text-align: center;
+	margin: 36px;
+}
+#topBanner {
+	background-color: #001489;
+	vertical-align: top;
+}
+#logo {
+	padding-right: 200px;
+	align-content: left;
+}
+
+
+
+
+
+#mid {
+	padding-left: 10px;
+	padding: 10px;
+	margin-top: 2vw;
+	display: inline-block;
+	vertical-align: top;
+}           
+                           
+
+#DH , #OS {
+	background-color: #001489;
+	color:#FFFFFF;
+	padding: 10px ;
+	vertical-align: top;
+	
+}
+#search {
+	background-color:#FFD400;
+	vertical-align: top;
+	text-align: left;
+}
+.t{
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+	display: inline-block;
+	margin: 1px;
+	vertical-align: bottom;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 100px;
+	height:100px;
+}
+#S {
+	height:30px;
+	width: 30px;
+}
+.bannerimage {
+	padding-right: 770px;
+}
+.tabs {
+	text-align: center;
+}
