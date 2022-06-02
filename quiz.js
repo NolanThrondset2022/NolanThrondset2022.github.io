@@ -13,34 +13,34 @@ var score = document.getElementById("score");
 var result = 0;
 function calculate() {
 	result = 0;
-	if (q1.value == "6 minutes"){
+	if (q1.value == "Let Me Solo Her"){
 		result = result + 1;
 	}
-	if (q2.value == "Gideon Ofnier"){
+	if (q2.value == "Irina and Hyetta"){
 		result = result + 1;
 	}
-	if (q3.value == "Mohgwyn palace"){
+	if (q3.value == "The Crucible Knights"){
 		result = result + 1;
 	}
-	if (q4.value == "Godrick soldier"){
+	if (q4.value == "Malenia"){
 		result = result + 1;
 	}
-	if (q5.value == "7"){
+	if (q5.value == "Black Knife Tiche"){
 		result = result + 1;
 	}
-	if (q6.value == "Rot"){
+	if (q6.value == "Leonard"){
 		result = result + 1;
 	}
-	if (q7.value == "3"){
+	if (q7.value == "Miquella's Needle"){
 		result = result + 1;
 	}
-	if (q8.value == "Godwyhn"){
+	if (q8.value == "Godwyn"){
 		result = result + 1;
 	}
-	if (q9.value == "Godskin Duo"){
+	if (q9.value == "Marika the Eternal"){
 		result = result + 1;
 	}
-	if (q10.value == "Elden Beast"){
+	if (q10.value == "120"){
 		result = result + 1;
 	}
 	score.innerHTML = result;
